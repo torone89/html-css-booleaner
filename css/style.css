@@ -71,8 +71,18 @@ figcaption {
 
 /* Footer */
 
-.img1 {
-    display: block;
+/* Container holding the image and the text */
+
+
+
+.container1 {
+    position: relative;
+    text-align: left;
+    color: white;
 }
 
-.img2 {}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
