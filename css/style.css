@@ -33,10 +33,25 @@ h1 {
     font-size: smaller;
 }
 
+
+/* Main Figure */
+figure {
+    margin: 0px;
+}
+
 figcaption {
     font-size: x-small;
 }
 
-/* Main */
+
+/* Main Paragraph*/
+
+.giallo {
+    background-color: yellow;
+}
+
+.ul {
+    margin-left: 0px;
+}
 
 /* Footer */
