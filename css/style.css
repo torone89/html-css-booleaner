@@ -37,6 +37,7 @@ h1 {
 /* Main Figure */
 figure {
     margin: 0px;
+    padding-top: 20px;
 }
 
 figcaption {
