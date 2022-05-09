@@ -51,7 +51,7 @@ figcaption {
 }
 
 .ul {
-    margin-left: 0px;
+    padding-left: 0px;
 }
 
 /* Main Table*/
@@ -59,8 +59,20 @@ figcaption {
     background-color: aqua;
 }
 
+
+
+.table {
+    width: 50%
+}
+
 .corpo {
-    background-color: rgb(135.206.235);
+    background-color: rgb(135, 206, 235);
 }
 
 /* Footer */
+
+.img1 {
+    display: block;
+}
+
+.img2 {}
