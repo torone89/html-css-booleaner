@@ -1,6 +1,17 @@
 /* Generic */
+body {
+    margin: 0px;
+
+}
 
 /* Header */
+#titolo {
+    height: 400px;
+    background-image: url(../img/pattern.png);
+    background-color: lightblue;
+}
+
+
 
 /* Main */
 
