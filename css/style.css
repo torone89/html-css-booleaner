@@ -4,6 +4,11 @@ body {
 
 }
 
+.cointaner {
+    margin: auto;
+    width: 1080px;
+}
+
 /* Header */
 #titolo {
     height: 100px;
@@ -76,7 +81,7 @@ figcaption {
 
 
 
-.container1 {
+.container-photo {
     position: relative;
     text-align: left;
     color: white;
